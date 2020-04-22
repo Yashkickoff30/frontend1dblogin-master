@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223428531390",
+    "firebase_url": "https://frontend1db.firebaseio.com",
+    "project_id": "frontend1db",
+    "storage_bucket": "frontend1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223428531390:android:e2f06165c1b25a54e9baef",
+        "android_client_info": {
+          "package_name": "com.example.frontend1db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223428531390-i027msssm0krkourbgug2pgkiv1vm4tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBaHWsIFYQOSYT54iOCD95qTqvE0HasSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223428531390-i027msssm0krkourbgug2pgkiv1vm4tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
